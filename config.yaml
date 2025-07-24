@@ -2,7 +2,7 @@ name: MQTT TLS Honeypot
 version: "1.0.0"
 slug: mqtt_honeypot
 description: A simple MQTT-over-TLS honeypot capturing credentials and packets.
-url: https://github.com/tomvd/local-powerstream/tree/main/honeypot
+url: https://github.com/RGarrett93/hassio-mqtt-honeypot
 startup: services
 init: false
 host_network: true
