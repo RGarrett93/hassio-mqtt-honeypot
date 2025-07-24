@@ -59,3 +59,6 @@ These can be modified in Supervisor **Add-on → Configuration**.
 2025-07-16 14:02:10 INFO (MainThread) mqtt_honeypot - Captured credentials - Username: device-XX, Password: abc123
 2025-07-16 14:02:10 INFO (MainThread) mqtt_honeypot - Sent CONNACK to ('192.168.1.100', 52345)
 ```
+
+This is based on honeypot trick found here to find the MQTT username and password for Ecoflow Powerstream:
+https://github.com/tomvd/local-powerstream
