@@ -65,6 +65,6 @@ These can be modified in Supervisor **Add-on → Configuration**.
 
 Many thanks to [Tom Van Dyck](https://github.com/tomvd)
 
-This is based on honeypot trick found here to find TLS MQTT username and password for the Ecoflow Powerstream:
+This is based on honeypot trick found here to find TLS MQTT username and password for the EcoFlow Powerstream:
 
 https://github.com/tomvd/local-powerstream
