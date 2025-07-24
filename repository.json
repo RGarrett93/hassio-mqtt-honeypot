@@ -1,0 +1,5 @@
+{
+    "name": "MQTT TLS Honeypot Add-on",
+    "url": "https://github.com/RGarrett93/hassio-mqtt-honeypot",
+    "maintainer": "RGarrett93"
+}
