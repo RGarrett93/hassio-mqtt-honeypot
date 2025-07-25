@@ -21,7 +21,7 @@ https://github.com/tomvd/local-powerstream/blob/main/mqttserver/mosquitto/data/c
 
 ## Installation
 
-1. In Home Assistant: **Supervisor → Add-on Store → ⋮ (top-right) → Repositories → Copy link `https://github.com/RGarrett93/hassio-mqtt-honeypot`**, and then click ADD.
+1. In Home Assistant: **Supervisor → Add-on Store → ⋮ (top-right) → Repositories** → Copy `https://github.com/RGarrett93/hassio-mqtt-honeypot`, and then click **ADD**.
 2. Find **MQTT TLS Honeypot** in the Add-on Store and **Install**.
 3. In the **Configuration** tab, upload your `certificate.pem` and `key.pem` under the **SSL** section.
 4. Start the add-on.
